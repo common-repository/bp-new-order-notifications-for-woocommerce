@@ -1,0 +1,20 @@
+{
+    "name": "brightplugins/bright-notification",
+    "description": "plugin",
+    "type": "project",
+    "authors": [
+        {
+            "name": "BrightPlugins",
+            "email": "support@brightplugins.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "include/codestar/codestar-framework.php"
+        ],
+        "psr-4": {
+            "Bright_New_Notification\\": "src/"
+        }
+    },
+    "require": {}
+}

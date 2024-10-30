@@ -1,0 +1,103 @@
+/* new plugin notice */
+.toplevel_page_brightplugins .wp-menu-image img {
+    width: 19px;
+    opacity: 1 !important;
+    padding-top: 7px;
+    filter: contrast(1.1);
+}
+.bp-logo span {
+    font-size: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background: #ff1b98;
+    left: 20px;
+    margin-top: -26px;
+    /* margin-left: 18px; */
+    position: absolute;
+    color: #fff;
+    width: 50px;
+
+    padding: 1px 4px;
+}
+.wcavi-img-banner {
+    width: 80px;
+    float: left;
+    position: absolute;
+    margin-top: -46px;
+    left: 485px;
+}
+
+.bp-new-alert {
+    border-left-color: #fa1b98 !important;
+    padding: 16px !important;
+    margin-top: 20px;
+    padding-left: 15px !important;
+    padding-bottom: 10px !important;
+    margin-bottom: 20px !important;
+}
+.bp-logo {
+    display: inline-block;
+}
+.new-link-bp {
+    display: inline-block;
+    font-size: 16px;
+    height: 25px;
+    margin-left: 355px;
+    position: absolute;
+    margin-top: 8px;
+}
+.exclusive-txt {
+    display: inline-block;
+    font-size: 16px;
+    height: 25px;
+    margin-top: 9px;
+    position: absolute;
+    margin-left: 18px;
+}
+/* admin notice */
+.woocommerce-page .woocomemrce-inner-bpwcavi {
+    display: none;
+}
+.bp-logo-1 span {
+    font-size: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background: #ff1b98;
+    left: 2px;
+    margin-top: -26px;
+    /* margin-left: 18px; */
+    position: absolute;
+    color: #fff;
+    width: 50px;
+
+    padding: 1px 4px;
+}
+.wcavi-img-banner-1 {
+    width: 80px;
+    float: left;
+    position: absolute;
+    margin-top: -46px;
+    left: 465px;
+}
+
+.bp-new-alert {
+    border-left-color: #fa1b98 !important;
+    padding: 16px !important;
+    margin-top: 20px;
+    padding-left: 15px !important;
+    padding-bottom: 10px !important;
+    margin-bottom: 20px !important;
+}
+
+
+.column-preorder{
+        width: 120px;
+}
+.product-preorder-upcoming{
+color: #52a711;
+font-weight: 600;
+}
+.product-preorder-expired{
+color: rgb(190, 4, 4);
+font-weight: 600;
+}
